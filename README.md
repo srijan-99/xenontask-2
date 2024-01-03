@@ -15,7 +15,7 @@ This project consists of a web application with three main pages: login, signup,
 1. Ensure MongoDB is running.
 2. Navigate to the project directory in the terminal/command prompt.
 3. Run node app.js to start the server.
-4. Open a web browser and visit http://localhost:PORT (replace PORT with the port number specified in the code) to access the application.
+4. Open a web browser and visit http://localhost:PORT 4001.
 
 ## Technologies Used
 - HTML
